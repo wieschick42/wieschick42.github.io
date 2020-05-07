@@ -1,11 +1,13 @@
 title: Dr Jakub Krukar
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think about, think in, and think with space.
+
+I am a psychologist by training and I apply psychological methods in the fields of geoinformatics, architecture, and human-computer interaction.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My CV</a> 
+  <a href="/pdfs/cv.pdf">View My CV</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-104760669-1 # your Google Analytics tracking ID here

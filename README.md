@@ -1,4 +1,4 @@
-# Background
+## Background
 
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 

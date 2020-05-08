@@ -4,7 +4,7 @@ I am a researcher and lecturer in spatial cognition - a branch of cognitive scie
 
 My background and approach are interdisciplinary, with MA in psychology, PhD from a department of architecture, and postdoc experience in geoinformatics. I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
 
-For selected projects, scroll downwards. 
+For selected projects, see below. 
 
 For a complete list of publications [click here](). 
 
@@ -22,11 +22,11 @@ We designed a new type of navigation instructions and demonstrated that they imp
 
 Key publications:
 
-* [Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
-
-* ["Wayfinding Through Orientation"]()
+* ["Wayfinding Through Orientation" (currently, most-read article in the Spatial Cognition and Computation Journal)]()
 
 * ["The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"]()
+
+* [[Project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
 ---
 
@@ -43,7 +43,7 @@ Key publications:
 
 * ["Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"]()
 
-* [My PhD Thesis]()
+* [[My PhD Thesis]]()
 
 ---
 

@@ -1,32 +1,16 @@
-## Welcome to GitHub Pages
+## Background
 
-You can use the [editor on GitHub](https://github.com/kubakrukar/kubakrukar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a psychologist by training and I apply psychological methods in the fields of geoinformatics, architecture, and human-computer interaction.
 
-### Markdown
+For selected projects, scroll downwards. For a complete list of publications [click here](). My CV is available [here](/pdfs/cv.pdf).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 

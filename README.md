@@ -15,9 +15,9 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 
 [[Project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
-[[Paper]: "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
+[[Key Publication] "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
 
-[[Paper] "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
+[[Key Publication] "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
 
 ---
 
@@ -26,11 +26,11 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 
 Art galleries are a very unique type of space: white, empty walls and the art itself are almost the only visual stimuli around. In such a situation, their spatial layout (the spatial arrangement of artworks and rooms) is what really steers the visitors’ attention.
 
-[Paper: "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits" in the *Frontiers in Psychology* Journal]()
+[[Key Publication] "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits" in the *Frontiers in Psychology* Journal]()
 
-[Paper: "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition" in the *Behavioral Sciences* Journal]()
+[[Key Publication] "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition" in the *Behavioral Sciences* Journal]()
 
-[My PhD Thesis]()
+[[My PhD Thesis]]()
 
 ---
 
@@ -39,4 +39,4 @@ Art galleries are a very unique type of space: white, empty walls and the art it
 
 I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I extensively use Mobile Eye-Tracking technology and the theory of Space Syntax.
 
-[Handbook Chapter: "Architectural Cognition and Behavior" in the *Handbook of Behavioral and Cognitive Geography*]()
+[[Key Publication] "Architectural Cognition and Behavior" in the *Handbook of Behavioral and Cognitive Geography*]()

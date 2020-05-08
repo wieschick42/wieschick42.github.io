@@ -2,7 +2,7 @@
 
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 
-I am a psychologist by training and I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
+I am an interdisciplinary researcher, with MA in psychology, PhD from a department of architecture, and postdoc experience in geoinformatics. I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
 
 For selected projects, scroll downwards. 
 

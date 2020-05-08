@@ -3,17 +3,17 @@
 
 @import "{{ site.theme }}";
 html {
-  font-size: 160px; // change to whatever
+  font-size: 16px; // change to whatever
 
   @include breakpoint($medium) {
-    font-size: 180px; // change to whatever
+    font-size: 18px; // change to whatever
   }
 
   @include breakpoint($large) {
-    font-size: 200px; // change to whatever
+    font-size: 20px; // change to whatever
   }
 
   @include breakpoint($x-large) {
-    font-size: 220px; // change to whatever
+    font-size: 22px; // change to whatever
   }
 }

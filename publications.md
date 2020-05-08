@@ -7,6 +7,7 @@ Krukar, J., Anacta, V. J., & Schwering, A. (2020). The effect of orientation ins
 
 Krukar, J., & Dalton, R. C. (2020). How the Visitors’ Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits. *Frontiers in Psychology, 11. doi: 10.3389/fpsyg.2020.00350*
 [[pdf]](pdfs/fpsyg-11-00350.pdf)
+[[data and analysis]](https://osf.io/d6mwe/)
 
 Loewen, H., Krukar, J., & Schwering, A. (2019). Spatial Learning with Orientation Maps: The Influence of Different Environmental Features on Spatial Knowledge Acquisition. *ISPRS International Journal of Geo-Information, 8(3), 149. doi: 10.3390/ijgi8030149*
 [[pdf]](pdfs/Lo%CC%88wen%2C%20Krukar%2C%20Schwering%20-%202019%20-%20Spatial%20Learning%20with%20Orientation%20Maps%20The%20Influence%20of%20Different%20Environmental%20Features%20on%20Spatial%20K.pdf)
@@ -48,6 +49,7 @@ Krukar, J., & Van Eek, A. (2019). The Impact of Indoor/Outdoor Context on Smartp
 
 Krukar, J., Muenzer, S., Loerch, L., Anacta, V. J., Fuest, S., & Schwering, A. (2018). Distinguishing Sketch Map Types: A Flexible Feature-Based Classification. In *S. Creem-Regehr, J. Schoening, & A. Klippel (Eds.), Spatial Cognition XI (pp. 279–292). doi: 10.1007/978-3-319-96385-3_19*
 [[pdf]](pdfs/Krukar%20et%20al.%20-%202018%20-%20Distinguishing%20Sketch%20Map%20Types%20A%20Flexible%20Feature-Based%20Classification.pdf)
+[[supplement]](https://osf.io/3d97m/)
 
 Krukar, J., Schwering, A., Loewen, H., Galvao, M., & Anacta, V. J. (2018). Rethinking Wayfinding Support Systems—Introduction. *In P. Fogliaroni, A. Bal- latore, & E. Clementini (Eds.), Proceedings of Workshops and Posters at the 13th International Conference on Spatial Information Theory (COSIT 2017) (pp. 151–152). doi: 10.1007/978-3-319-63946-8_29* (editorial to workshop proceedings)
 [[pdf]](pdfs/introCOSIT.pdf)

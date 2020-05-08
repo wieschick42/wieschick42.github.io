@@ -1,4 +1,4 @@
-## Background
+# Background
 
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 
@@ -6,12 +6,10 @@ I am a psychologist by training and I apply psychological methods in the fields 
 
 For selected projects, scroll downwards. For a complete list of publications [click here](). My CV is available [here](/pdfs/cv.pdf).
 
-
-
-
-# Projects
+---
 
 ## Wayfinding Through Orientation
+![WayTO Project](/images/wayto.png)
 
 Traditional wayfinding devices use turn-by-turn instructions such as 'turn left' or 'continue for 300 m'. These are easy to follow but leave us disoriented. They don’t correspond to how we would describe any route to other people. Can different types of navigation instructions help us learn the new environment *while* we navigate it?
 

@@ -3,14 +3,14 @@ logo: "/images/1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Postdoctoral Researcher/Lecturer
   <a href="https://ifgi.uni-muenster.de">Institute for Geoinformatics, 
-  <br>
+  <br><br>
   University of Muenster, Germany</a>
   <br><br>
-  [[CV]](/pdfs/cv.pdf)
-  [[all publications]]()
-  [[Google Scholar]](https://scholar.google.de/citations?user=-c7yB1IAAAAJ&hl=en&oi=ao)
-  [[ORCID]](https://orcid.org/0000-0003-2615-8757)
-  [[OSF]](https://osf.io/9ruhs)
-  
+  <a href="/pdfs/cv.pdf">[CV]</a>
+  <a href="/pdfs/cv.pdf">[all publications]</a>
+  <br><br>
+  <a href="https://scholar.google.de/citations?user=-c7yB1IAAAAJ&hl=en&oi=ao">[Google Scholar]</a>
+  <a href="https://orcid.org/0000-0003-2615-8757">[ORCID]</a>
+  <a href="https://osf.io/9ruhs">[OSF]</a>
 theme: jekyll-theme-minimal
 google_analytics: UA-104760669-1 # your Google Analytics tracking ID here

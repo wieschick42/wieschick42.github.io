@@ -13,11 +13,11 @@ For selected projects, scroll downwards. For a complete list of publications [cl
 
 Traditional wayfinding devices use turn-by-turn instructions such as 'turn left' or 'continue for 300 m'. These are easy to follow but leave us disoriented. They don’t correspond to how we would describe any route to other people. Can different types of navigation instructions help us learn the new environment *while* we navigate it?
 
-[Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
+[* Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
-[Paper: "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
+[* Paper: "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
 
-[Paper: "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
+[* Paper: "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
 
 ---
 

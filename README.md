@@ -19,7 +19,7 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 
 [Paper: "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
 
-
+---
 
 ## Eye-Tracking and Spatial Layouts of Art Galleries
 ![Art Galleries PhD Project](/images/artgalleries.jpg)
@@ -32,6 +32,7 @@ Art galleries are a very unique type of space: white, empty walls and the art it
 
 [My PhD Thesis]()
 
+---
 
 ## Architectural Cognition
 ![Architectural Cognition](/images/arch.jpg)

@@ -19,11 +19,13 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 
 We designed a new type of navigation instructions and demonstrated that they improve what people learn about the broader enviornment (e.g., the entire city), without sacrificing their understanding of the current route.
 
-[[Project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
+Key Publications:
 
-[[Key Publication] "Wayfinding Through Orientation"]()
+* [Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
-[[Key Publication] "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"]()
+* ["Wayfinding Through Orientation"]()
+
+* ["The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"]()
 
 ---
 

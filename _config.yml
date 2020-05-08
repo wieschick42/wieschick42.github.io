@@ -1,18 +1,11 @@
 title: Dr Jakub Krukar
 logo: "/images/1.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p style="color:black;">Postdoctoral Researcher/Lecturer</p>
+  Postdoctoral Researcher/Lecturer
   <a href="https://ifgi.uni-muenster.de">Institute for Geoinformatics, 
-  <br>
+  
   University of Muenster, Germany</a>
-  <br><br>
-  krukar(at)uni-muenster.de
-  <br><br>
-  <a href="/pdfs/cv.pdf">[my CV]</a>
-  <br>
-  <a href="https://scholar.google.de/citations?user=-c7yB1IAAAAJ&hl=en&oi=ao">[Google Scholar]</a>
-  <br>
-  <a href="https://orcid.org/0000-0003-2615-8757">[ORCID]</a>
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-104760669-1 # your Google Analytics tracking ID here

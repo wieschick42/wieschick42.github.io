@@ -22,11 +22,11 @@ We designed a new type of navigation instructions and demonstrated that they imp
 
 Key publications:
 
-* ["Wayfinding Through Orientation" (currently, most-read article in the Spatial Cognition and Computation Journal)]()
+* ["Wayfinding Through Orientation" (currently, most-read article in the Spatial Cognition and Computation Journal)](pdfs/WayTO-SCC.pdf)
 
-* ["The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"]()
+* ["The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"](pdfs/Krukar%2C%20Anacta%2C%20Schwering%20-%202020%20-%20The%20effect%20of%20orientation%20instructions%20on%20the%20recall%20and%20reuse%20of%20route%20and%20survey%20elements%20in%20wayfin.pdf)
 
-* [[Project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
+* [[project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
 ---
 
@@ -40,11 +40,11 @@ In my PhD project I demonstrated that the layout of space can have a larger impa
 
 Key publications:
 
-* ["How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits"]()
+* ["How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits"](pdfs/fpsyg-11-00350.pdf)
 
-* ["Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"]()
+* ["Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"](pdfs/Krukar%20-%202014%20-%20Walk%2C%20look%2C%20remember%20The%20influence%20of%20the%20gallery%E2%80%99s%20spatial%20layout%20on%20human%20memory%20for%20an%20art%20exhibition.pdf)
 
-* [[My PhD Thesis]]()
+* [[My PhD Thesis]](pdfs/Krukar-PhD-revised-smallersize.pdf)
 
 ---
 
@@ -60,4 +60,4 @@ Key publications:
 
 * ["Towards Embodied 3D Isovists"](pdfs/Krukar%2C%20Schultz%2C%20Bhatt%20-%202017%20-%20Towards%20Embodied%203D%20Isovists.pdf)
 
-* ["Architectural Cognition and Behavior"]()
+* ["Architectural Cognition and Behavior"](pdfs/Dalton%2C%20Krukar%2C%20Ho%CC%88lscher%20-%202018%20-%20Architectural%20cognition%20and%20behavior.pdf)

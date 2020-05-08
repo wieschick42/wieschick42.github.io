@@ -7,7 +7,7 @@ Krukar, J., Anacta, V. J., & Schwering, A. (2020). The effect of orientation ins
 
 Krukar, J., & Dalton, R. C. (2020). How the Visitors’ Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits. *Frontiers in Psychology, 11. doi: 10.3389/fpsyg.2020.00350*
 [[pdf]](pdfs/fpsyg-11-00350.pdf)
-[[data and analysis]](https://osf.io/d6mwe/)
+[[data]](https://osf.io/d6mwe/)
 
 Loewen, H., Krukar, J., & Schwering, A. (2019). Spatial Learning with Orientation Maps: The Influence of Different Environmental Features on Spatial Knowledge Acquisition. *ISPRS International Journal of Geo-Information, 8(3), 149. doi: 10.3390/ijgi8030149*
 [[pdf]](pdfs/Lo%CC%88wen%2C%20Krukar%2C%20Schwering%20-%202019%20-%20Spatial%20Learning%20with%20Orientation%20Maps%20The%20Influence%20of%20Different%20Environmental%20Features%20on%20Spatial%20K.pdf)

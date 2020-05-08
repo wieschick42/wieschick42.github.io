@@ -35,7 +35,7 @@ Dalton, R. C., Krukar, J., & Hoelscher, C. (2018). Architectural cognition and b
 [[pdf]](pdfs/Dalton%2C%20Krukar%2C%20Ho%CC%88lscher%20-%202018%20-%20Architectural%20cognition%20and%20behavior.pdf)
 
 Krukar, J., Dalton, R. C., & Hoelscher, C. (2016). Applying HCI Methods and Concepts to Architectural Design (Or Why Architects Could Use HCI Even If They Don’t Know It). In *S. N. Dalton, H. Schnaedelbach, M. Wiberg, & T. Varoudis (Eds.), Architecture and Interaction: Human Computer Interaction in Space and Place (pp. 17–35). doi: 10.1007/978-3-319-30028-3_2*
-[[pdf]](pdfs/Krukar%2C%20Dalton%2C%20Ho%CC%88lscher%20-%202016%20-%20Applying%20HCI%20Methods%20and%20Concepts%20to%20Architectural%20Design%20(Or%20Why%20Architects%20Could%20Use%20HCI%20Even%20If%20Th.pdf)
+[[pdf]](pdfs/Krukar_ConroyDalton_Hoelscher.pdf)
 
 ### Peer-reviewed conference proceedings
 

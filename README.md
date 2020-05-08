@@ -19,7 +19,7 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 
 We designed a new type of navigation instructions and demonstrated that they improve what people learn about the broader enviornment (e.g., the entire city), without sacrificing their understanding of the current route.
 
-Key Publications:
+Key publications:
 
 * [Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
@@ -36,11 +36,13 @@ Art galleries are a very unique type of space: white, empty walls and the art it
 
 In my PhD project I demonstrated that the layout of space can have a larger impact on visitor's attention than the differences between individual artworks. I also showed that although the layout can change the strategy with which visitors attend to artworks, cumulative time spent attending to each picture is unaffected by its location.
 
-[[Key Publication] "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits"]()
+Key publications:
 
-[[Key Publication] "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"]()
+* ["How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits"]()
 
-[[My PhD Thesis]]()
+* ["Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"]()
+
+* [My PhD Thesis]()
 
 ---
 
@@ -49,6 +51,8 @@ In my PhD project I demonstrated that the layout of space can have a larger impa
 
 I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I design formal measures for architectural computation that are grounded in the cognitive experience of space.
 
-[[Key Publication] "Towards Embodied 3D Isovists"]()
+Key publications:
 
-[[Key Publication] "Architectural Cognition and Behavior"]()
+* ["Towards Embodied 3D Isovists"]()
+
+* ["Architectural Cognition and Behavior"]()

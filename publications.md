@@ -1,3 +1,5 @@
+## Publications
+
 ### Journal papers
 
 Krukar, J., Anacta, V. J., & Schwering, A. (2020). The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions. *Journal of Environmental Psychology, 68, 101407. doi: 10.1016/j.jenvp.2020.101407*

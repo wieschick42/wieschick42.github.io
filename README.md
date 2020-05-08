@@ -29,7 +29,7 @@ Key publications:
 
 ---
 
-## Eye-Tracking and Spatial Layouts of Art Galleries
+## Spatial Layouts of Art Galleries
 ![Art Galleries PhD Project](/images/artgalleries.jpg)
 
 Art galleries are a very unique type of space: white, empty walls and the art itself are almost the only visual stimuli around. In such a situation, their spatial layout (the spatial arrangement of artworks and rooms) is what really steers the visitors’ attention.

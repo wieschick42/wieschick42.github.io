@@ -31,9 +31,10 @@ Key publications:
 ---
 
 ## Spatial Layouts of Art Galleries
-![Art Galleries PhD Project](/images/artgalleries.jpg)
 
 Art galleries are a very unique type of space: white, empty walls and the art itself are almost the only visual stimuli around. In such a situation, their spatial layout (the spatial arrangement of artworks and rooms) is what really steers the visitors’ attention.
+
+![Art Galleries PhD Project](/images/artgalleries.jpg)
 
 In my PhD project I demonstrated that the layout of space can have a larger impact on visitor's attention than the differences between individual artworks. I also showed that although the layout can change the strategy with which visitors attend to artworks, cumulative time spent attending to each picture is unaffected by its location.
 
@@ -48,6 +49,7 @@ Key publications:
 ---
 
 ## Architectural Cognition
+
 ![Architectural Cognition](/images/arch.jpg)
 
 I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I design formal measures for architectural computation that are grounded in the cognitive experience of space.

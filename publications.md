@@ -25,7 +25,7 @@ Schwering, A., **Krukar, J.**, Li, R., Anacta, V. J., & Fuest, S. (2017). Wayfin
 [[pdf]](pdfs/Krukar%2C%20Ho%CC%88lscher%2C%20Conroy%20Dalton%20-%202017%20-%20Indoor%20Wayfinding%20Interview%20with%20Christoph%20Ho%CC%88lscher%20and%20Ruth%20Conroy%20Dalton.pdf)
 
 **Krukar, J.**, Schwering, A., & Anacta, V. J. (2017). Landmark-Based Navigation in Cognitive Systems. *German Journal of Artificial Intelligence (Kuenstliche Intelligenz), 31(2), 121–124. doi: 10.1007/s13218-017-0487-7*
-editorial to a special issue (not peer-reviewed)
+(editorial to a special issue; not peer-reviewed)
 [[pdf]](pdfs/Krukar%2C%20Schwering%2C%20Anacta%20-%202017%20-%20Landmark-Based%20Navigation%20in%20Cognitive%20Systems.pdf)
 
 **Krukar, J.** (2014). Walk, look, remember: The influence of the gallery’s spatial layout on human memory for an art exhibition. *Behavioral Sciences, 4(3), 181–201. doi: 10.3390/bs4030181*

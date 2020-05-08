@@ -21,9 +21,9 @@ We designed a new type of navigation instructions and demonstrated that they imp
 
 [[Project website]](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
-[[Key Publication] "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
+[[Key Publication] "Wayfinding Through Orientation"]()
 
-[[Key Publication] "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
+[[Key Publication] "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions"]()
 
 ---
 
@@ -34,9 +34,9 @@ Art galleries are a very unique type of space: white, empty walls and the art it
 
 In my PhD project I demonstrated that the layout of space can have a larger impact on visitor's attention than the differences between individual artworks. I also showed that although the layout can change the strategy with which visitors attend to artworks, cumulative time spent attending to each picture is unaffected by its location.
 
-[[Key Publication] "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits" in the *Frontiers in Psychology* Journal]()
+[[Key Publication] "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits"]()
 
-[[Key Publication] "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition" in the *Behavioral Sciences* Journal]()
+[[Key Publication] "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition"]()
 
 [[My PhD Thesis]]()
 
@@ -49,4 +49,4 @@ I am interested in how psychology can aid architecture in improving the usabilit
 
 [[Key Publication] "Towards Embodied 3D Isovists"]()
 
-[[Key Publication] "Architectural Cognition and Behavior" in the *Handbook of Behavioral and Cognitive Geography*]()
+[[Key Publication] "Architectural Cognition and Behavior"]()

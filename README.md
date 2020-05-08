@@ -16,22 +16,26 @@ Traditional wayfinding devices use turn-by-turn instructions such as 'turn left'
 [Project website](https://www.uni-muenster.de/Geoinformatics/en/WayTO/index.html)
 
 [Paper: "Wayfinding Through Orientation" in the *Spatial Cognition and Computation Journal*]()
+
 [Paper: "The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions" in the *Journal of Environmental Psychology*]()
 
 
 
 ## Eye-Tracking and Spatial Layouts of Art Galleries
+![Art Galleries PhD Project](/images/artgalleries.jpg)
+
+Art galleries are a very unique type of space: white, empty walls and the art itself are almost the only visual stimuli around. In such a situation, their spatial layout (the spatial arrangement of artworks and rooms) is what really steers the visitors’ attention.
+
+[Paper: "How the Visitors' Cognitive Engagement Is Driven (but Not Dictated) by the Visibility and Co-visibility of Art Exhibits" in the *Frontiers in Psychology* Journal]()
+
+[Paper: "Walk, Look, Remember: The influence of the gallery's spatial layout on human memory for an art exhibition" in the *Behavioral Sciences* Journal]()
+
+[My PhD Thesis]()
+
 
 ## Architectural Cognition
+![Architectural Cognition](/images/arch.jpg)
 
+I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I extensively use Mobile Eye-Tracking technology and the theory of Space Syntax.
 
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kubakrukar/kubakrukar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Handbook Chapter: "Architectural Cognition and Behavior" in the *Handbook of Behavioral and Cognitive Geography*]()

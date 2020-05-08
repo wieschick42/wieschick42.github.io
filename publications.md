@@ -19,7 +19,7 @@ Krukar, J. (2014). Walk, look, remember: The influence of the gallery’s spatia
 ### Book chapters
 
 Dalton, R. C., Krukar, J., & H ̈olscher, C. (2018). Architectural cognition and be- havior. In D. R. Montello (Ed.), Handbook of Behavioral and Cognitive Geography (pp. 337–356). doi: 10.4337/9781784717544.00030
-[pdf]("pdfs/Dalton, Krukar, Hölscher - 2018 - Architectural cognition and behavior.pdf")
+[pdf](https://github.com/kubakrukar/kubakrukar.github.io/blob/master/pdfs/Dalton%2C%20Krukar%2C%20Ho%CC%88lscher%20-%202018%20-%20Architectural%20cognition%20and%20behavior.pdf)
 
 Krukar, J., Dalton, R. C., & H ̈olscher, C. (2016). Applying HCI Methods and Concepts to Architectural Design (Or Why Architects Could Use HCI Even If They Don’t Know It). In S. N. Dalton, H. Schn ̈adelbach, M. Wiberg, & T. Varoudis (Eds.), Architecture and Interaction: Human Computer Interaction in Space and Place (pp. 17–35). doi: 10.1007/978-3-319-30028-3 2
 

@@ -36,7 +36,7 @@ Art galleries are a very unique type of space: white, empty walls and the art it
 
 ![Art Galleries PhD Project](/images/artgalleries.jpg)
 
-In my PhD project I demonstrated that the layout of space can have a larger impact on visitor's attention than the differences between individual artworks. I also showed that although the layout can change the strategy with which visitors attend to artworks, cumulative time spent attending to each picture is unaffected by its location.
+In my PhD project I demonstrated that the layout of space can have a larger impact on visitor's attention than the differences between individual artworks. I also showed that although the layout can change the strategy with which visitors attend to artworks, cumulative time spent on attending to each picture is unaffected by its location. Methodologically, the project combined Mobile Eye-Tracking with the architectural theory of Space Syntax.
 
 Key publications:
 
@@ -50,9 +50,11 @@ Key publications:
 
 ## Architectural Cognition
 
+I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I design formal measures for architectural computation that are grounded in the cognitive experience of space.
+
 ![Architectural Cognition](/images/arch.jpg)
 
-I am interested in how psychology can aid architecture in improving the usability of buildings. I study how space 'guides' our behaviour, our attention, and our thinking. I design formal measures for architectural computation that are grounded in the cognitive experience of space.
+In recent work, we extended a popular architectural measure of visibility, called an "isovist", from 2-D to 3-D environments. We demonstrated that our measure better predicts how "spacious" and "complex" a building feels to a human occupant, compared to the previously available methods.
 
 Key publications:
 

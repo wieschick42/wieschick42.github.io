@@ -2,7 +2,7 @@
 
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 
-My background and approach are very interdisciplinary, with MA in psychology, PhD from a department of architecture, and postdoc experience in geoinformatics. I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
+My background and approach are interdisciplinary, with MA in psychology, PhD from a department of architecture, and postdoc experience in geoinformatics. I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
 
 For selected projects, scroll downwards. 
 
@@ -13,9 +13,10 @@ My CV is available [here](/pdfs/cv.pdf).
 ---
 
 ## Wayfinding Through Orientation
-![WayTO Project](/images/wayto.png)
 
 Traditional wayfinding devices use turn-by-turn instructions such as 'turn left' or 'continue for 300 m'. These are easy to follow but leave us disoriented. They don’t correspond to how we would describe any route to other people. Can different types of navigation instructions help us learn the environment *while* we navigate?
+
+![WayTO Project](/images/wayto.png)
 
 We designed a new type of navigation instructions and demonstrated that they improve what people learn about the broader enviornment (e.g., the entire city), without sacrificing their understanding of the current route.
 

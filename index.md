@@ -6,7 +6,7 @@ My background and approach are interdisciplinary, with MA in psychology, PhD fro
 
 For selected projects, see below. 
 
-For a complete list of publications [click here](). 
+For a complete list of publications [click here](/publications). 
 
 My CV is available [here](/pdfs/cv.pdf).
 
@@ -58,6 +58,6 @@ In recent work, we extended a popular architectural measure of visibility, calle
 
 Key publications:
 
-* ["Towards Embodied 3D Isovists"]()
+* ["Towards Embodied 3D Isovists"](pdfs/Krukar%2C%20Schultz%2C%20Bhatt%20-%202017%20-%20Towards%20Embodied%203D%20Isovists.pdf)
 
 * ["Architectural Cognition and Behavior"]()

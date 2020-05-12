@@ -120,3 +120,7 @@ Conroy Dalton, R. and **Krukar, J.** (2014; equal contribution). Augmenting Intu
 
 **Krukar, J.**, & Conroy Dalton, R. (2012). Towards a Unified Model of Building Usability. *22nd International Association People-Environment Studies (IAPS) Conference. Glasgow, UK.*
 [[pdf]](pdfs/iaps-abstract.pdf)
+
+### PhD Thesis
+
+**Krukar, J.** (2015). The Influence of an Art Gallery’s Spatial Layout on Human Attention to and Memory of Art Exhibits. *University of Northumbria at Newcastle, UK.* [[pdf]](pdfs/Krukar-PhD-revised-smallersize.pdf)

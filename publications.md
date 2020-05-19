@@ -77,8 +77,7 @@ Padmanaban, R., & **Krukar, J.** (2017). Increasing the Density of Local Landmar
 **Krukar, J.**, Mavros, P., Hoelscher, C. (in press) Towards Capturing focal/ambient attention during dynamic wayfinding. *Eye-tracking for spatial research workshop 2020*
 [[pdf]](pdfs/Krukar%2C%20Mavros%2C%20Hoelscher%20-%202020%20-%20Towards%20capturing%20focal%20ambient%20attention%20during%20dynamic%20wayfinding.pdf)
 
-Dalton, R., Dalton, N., Hoelscher, C., Veddeler, C., **Krukar, J.**, and Wiberg, M., [in press]. HabiTech: Inhabiting Buildings, Data and Technology, in CHI 2020 Extended Abstracts, Honolulu, USA, 2020.
-[[pdf]](pdfs/SIGCHI-CHI2020-HabiTech.pdf)
+Dalton, R., Dalton, N., Hoelscher, C., Veddeler, C., **Krukar, J.**, & Wiberg, M. (2020). HabiTech : Inhabiting Buildings, Data & Technology. *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems*, 1–8. doi: 10.1145/3334480.3375179 [[pdf]](pdfs/SIGCHI-CHI2020-HabiTech.pdf)
 
 Schick, W., **Krukar, J.**, & Schwering, A. (2019). Functional verbal scales in route instructions of wayfinding assistance systems. *Speaking of Location (Workshop in conjunction with COSIT 2019). Regensburg, Germany.*
 [[pdf]](pdfs/Schick_COSIT2019_submitted.pdf)

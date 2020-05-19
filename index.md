@@ -56,7 +56,7 @@ I am interested in how psychology can aid architecture in improving the usabilit
 
 ![Architectural Cognition](/images/arch.jpg)
 
-In recent work, we extended a popular architectural measure of visibility, called an "isovist", from 2-D to 3-D environments. We demonstrated that our measure better predicts how "spacious" and "complex" a building feels to a human occupant, compared to the previously available methods.
+In recent work, we have extended a popular architectural measure of visibility, called an "isovist", from 2-D to 3-D environments. We demonstrated that our measure better predicts how "spacious" and "complex" a building feels to a human occupant, compared to the previously available methods.
 
 Key publications:
 

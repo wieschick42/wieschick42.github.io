@@ -1,10 +1,10 @@
 
 
-## Bio
+## Biosketch
 
 I am a researcher and lecturer in spatial cognition - a branch of cognitive science studying how people think *about*, think *in*, and think *with* space.
 
-My background and approach are interdisciplinary, with an MA in Psychology, a PhD from a Department of Architecture, and postdoctoral experience in Geoinformatics. I apply cognitive psychology methods in the fields of Geoinformatics, Architecture, and Human-Computer Interaction.
+My background and approach are interdisciplinary, with an MA in psychology, a PhD from a department of architecture, and postdoctoral experience in geoinformatics. I apply cognitive psychology methods in the fields of geoinformatics, architecture, and human-computer interaction.
 
 For selected projects, see below. 
 

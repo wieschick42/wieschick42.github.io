@@ -74,8 +74,7 @@ Padmanaban, R., & **Krukar, J.** (2017). Increasing the Density of Local Landmar
 
 ### Extended abstracts and posters
 
-**Krukar, J.**, Mavros, P., Hoelscher, C. (in press) Towards Capturing focal/ambient attention during dynamic wayfinding. *Eye-tracking for spatial research workshop 2020*
-[[pdf]](pdfs/Krukar%2C%20Mavros%2C%20Hoelscher%20-%202020%20-%20Towards%20capturing%20focal%20ambient%20attention%20during%20dynamic%20wayfinding.pdf)
+**Krukar, J.**, Mavros, P., & Hoelscher, C. (2020). Towards capturing focal/ambient attention during dynamic wayfinding. *Symposium on Eye Tracking Research and Applications*, 1–5. doi: 10.1145/3379157.3391417[[pdf]](pdfs/Krukar%2C%20Mavros%2C%20Hoelscher%20-%202020%20-%20Towards%20capturing%20focal%20ambient%20attention%20during%20dynamic%20wayfinding.pdf)
 
 Dalton, R., Dalton, N., Hoelscher, C., Veddeler, C., **Krukar, J.**, & Wiberg, M. (2020). HabiTech : Inhabiting Buildings, Data & Technology. *Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems*, 1–8. doi: 10.1145/3334480.3375179 [[pdf]](pdfs/SIGCHI-CHI2020-HabiTech.pdf)
 

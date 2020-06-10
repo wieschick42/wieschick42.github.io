@@ -1,2 +1,2 @@
-# kubakrukar.github.io
+# wieschick42.github.io
 personal website

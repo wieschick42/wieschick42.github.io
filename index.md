@@ -3,7 +3,7 @@
 ## Biosketch
 I am a researcher and lecturer in spatial cognition.
 
-My background is interdisciplinary and diverse: I received a Magister Artium with the subjects general rhetorics, newer english literature, and psychology, and was then a PhD student at a Graduate Training Center of Neuroscience. Now I am a postdoc in geoinformatics. I use approaches and methods from the fields of linguistics, cognitive sciences and psychology to investigate the communication of spatial information as well as their acquisition and storage.
+My background is interdisciplinary and diverse: I received a Magister Artium with the subjects general rhetorics, newer english literature, and psychology, and was then a PhD student at a Graduate Training Center of Neuroscience. Now I am a postdoc in geoinformatics. I use approaches and methods from the fields of linguistics, cognitive sciences and psychology to investigate the communication of spatial information as well as their acquisition and storage.Also, I am interested in communicating science to a broad audience: I am available for scientific talks and regularly participate at science slams since 2015.
 
 
 For the current project I am involved in, see below. 

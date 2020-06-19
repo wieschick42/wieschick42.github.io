@@ -17,6 +17,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://orcid.org/0000-0003-2615-8757">[ORCID]</a>
   <br>
-  <a href="https://osf.io/9ruhs">[OSF]</a>
 theme: jekyll-theme-minimal
 google_analytics: UA-104760669-1 # your Google Analytics tracking ID here

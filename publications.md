@@ -20,6 +20,32 @@ Hochstetter, G.; Jovalekic, A.; Kersting, J.-B.; Opitz, A.; Ruf, C.; **Schick, W
 In: Evers, D., & Weidtmann, N. (Hrsg): Wahrnehmung und Identität. LIT Verlag, Berlin: 119-171. 
 
 
+### Talks (selection)
+
+Rostock: **Zentralveranstaltung zum Tag der Epilepsie 2019**, Podiumsdiskussion + Science Slam (05.10.2019)
+
+Neudietendorf:  **Arbeitstagung der Deutschen Gesellschaft für Epilepsie**. „Schluss mit lustig? Diagnose Epilepsie – ist jetzt alles verboten was Spaß macht?“ Vortrag (07.07.2019)
+
+Essen: **Essener Wissenschaftssommer Künstliche Intelligenz**. Science Slam. „Life is a highway – aber wo ist das Ziel?”(03.07.2019)
+
+Münster: LWL Museum für Naturkunde: Vortrag zur **Sonderausstellung Das Gehirn**:  „Blitzschnelle Botschaften und große Gewitter: eine Reise durchs Netz der Nervenzellen.“  (26.02.2019)
+
+München: **electronica Messe**, Science Slam. „Nie mehr auf dem Highway to Hell -von diesem Navi kann man sich was abkucken!“ (16.11.2018)
+
+Bad Homburg: **Benefizkonzert der Epilepsiestiftung**. Vortrag. „Blitzschnelle Botschaften und große Gewitter“. (05.10. 2018)
+
+Leipzig, **Lange Nacht der Wissenschaft** (in Kooperation mit dem Theater der jungen Welt). Vortrag & Diskussion. „Amor, Psyche und die verschlungenen Pfade durch unser Gehirn“. (22.06.2018)
+
+Aarau,**Forschungsbühne: Wissenschaft im Rampenlicht**. Vortrag. „Auge in Auge mit meinem Gehirn.“ (21.11.2017)
+
+Zürich: **Zürcher Wissenschaftstage: Scientifica – Was Daten verraten**. Science Slam.  „Auge in Auge mit meinem Gehirn.“ (03.09.2017).
+
+Gießen, **Gießener Abendgespräche Kognition und Gehirn**: “ Language Cues in the Formation of hierarchical representations of space.” (02.07.2017)
+
+Stuttgart, **Körperwelten-Ausstellung**, Science Slam. „Täuschend echt oder echt täuschend – wann kann ich meinen Augen trauen?“. (04.05. 2017)
+
+Mannheim: **Jahreskongress der Deutschen Gesellschaft für Neurologie**. Geistesblitze – 1. Science Slam der DGN,  Science Slam. „Täuschend echt oder echt täuschend – wann kann ich meinen Augen trauen?“  (23.09.2016)
+
 
 ### Peer-reviewed conference proceedings and poster
 
